@@ -85,21 +85,21 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Teams — a calm, continuous logo band that works at any width */}
-      <section aria-labelledby="clients-title" className="border-y border-line py-6 sm:py-8">
-        <h2 id="clients-title" className="ledger container-x">
-          Teams I&apos;ve worked with
-        </h2>
-        <div className="marquee mt-5 overflow-hidden" data-reveal="fade">
-          <ul className="marquee-track items-center">
-            {[...clients, ...clients].map((c, i) => (
-              <li
-                key={`${c.name}-${i}`}
-                data-dup={i >= clients.length ? "" : undefined}
-                aria-hidden={i >= clients.length ? true : undefined}
-                className="flex h-12 shrink-0 items-center px-5 sm:h-14 sm:px-10"
-              >
-                <Img src={c.logo} alt={i >= clients.length ? "" : c.name} sizes="160px" className="h-9 w-auto opacity-75 sm:h-10" />
+      {/* Teams: a static row, since three logos read better still than looping */}
+      <section aria-labelledby="clients-title" className="border-y border-line py-8 sm:py-10">
+        <div className="container-x flex flex-col gap-6 md:flex-row md:items-center md:gap-12">
+          <h2 id="clients-title" className="ledger shrink-0 md:w-44">
+            Teams I&apos;ve worked with
+          </h2>
+          <ul className="stagger grid flex-1 grid-cols-3 items-center gap-4 sm:gap-8">
+            {clients.map((c) => (
+              <li key={c.name} data-reveal="fade" className="flex h-12 items-center justify-center md:justify-start lg:justify-center">
+                <Img
+                  src={c.logo}
+                  alt={c.name}
+                  sizes="160px"
+                  className="h-8 w-auto max-w-full object-contain opacity-70 transition-opacity duration-300 hover:opacity-100 sm:h-10"
+                />
               </li>
             ))}
           </ul>
