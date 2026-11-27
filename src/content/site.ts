@@ -9,7 +9,7 @@ export const site = {
   email: "studio@nathmond.co.uk",
   phone: "+44 7908 081 410",
   linkedin: "",
-  cvPdf: "/Nathaniel-Diamond-CV.pdf",
+  cvPdf: "/Evelyn-Joseph-CV.pdf",
   headline: "I design clear, accessible products for complex problems — and prototype them with AI.",
   intro:
     "Senior product designer with 7+ years across fintech, enterprise SaaS and consumer platforms. I lead 0→1 products, untangle regulated flows and build design systems that help teams ship faster.",
