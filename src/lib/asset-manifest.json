@@ -1,0 +1,4419 @@
+{
+  "/images/1.Alsoit1.png": {
+    "src": "/optimized/dd22543fff613a1d-240.webp",
+    "width": 240,
+    "height": 240,
+    "variants": [
+      {
+        "src": "/optimized/dd22543fff613a1d-240.webp",
+        "width": 240
+      }
+    ]
+  },
+  "/images/1.Alsoit2.png": {
+    "src": "/optimized/79877d9cfb3530c7-384.webp",
+    "width": 384,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/79877d9cfb3530c7-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/79877d9cfb3530c7-384.webp",
+        "width": 384
+      }
+    ]
+  },
+  "/images/1.Bradcoin1.png": {
+    "src": "/optimized/a72beb43b1ce4a52-240.webp",
+    "width": 240,
+    "height": 240,
+    "variants": [
+      {
+        "src": "/optimized/a72beb43b1ce4a52-240.webp",
+        "width": 240
+      }
+    ]
+  },
+  "/images/1.Bradcoin2.png": {
+    "src": "/optimized/751bd1781ee0faba-384.webp",
+    "width": 384,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/751bd1781ee0faba-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/751bd1781ee0faba-384.webp",
+        "width": 384
+      }
+    ]
+  },
+  "/images/1.Logo.png": {
+    "src": "/optimized/fb2e757840b33a25-2400.webp",
+    "width": 2624,
+    "height": 322,
+    "variants": [
+      {
+        "src": "/optimized/fb2e757840b33a25-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/fb2e757840b33a25-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/fb2e757840b33a25-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/fb2e757840b33a25-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/fb2e757840b33a25-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/fb2e757840b33a25-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/1.ProfileHeroBgImg.png": {
+    "src": "/optimized/60521d51c9a15d1a-2400.webp",
+    "width": 4320,
+    "height": 3072,
+    "variants": [
+      {
+        "src": "/optimized/60521d51c9a15d1a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/60521d51c9a15d1a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/60521d51c9a15d1a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/60521d51c9a15d1a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/60521d51c9a15d1a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/60521d51c9a15d1a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/1.SelectedWorkbgImg.png": {
+    "src": "/optimized/07e44432a9daa404-1143.webp",
+    "width": 1143,
+    "height": 1143,
+    "variants": [
+      {
+        "src": "/optimized/07e44432a9daa404-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/07e44432a9daa404-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/07e44432a9daa404-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/07e44432a9daa404-1143.webp",
+        "width": 1143
+      }
+    ]
+  },
+  "/images/1.Staples2.png": {
+    "src": "/optimized/e6f42c4d796bb866-384.webp",
+    "width": 384,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/e6f42c4d796bb866-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/e6f42c4d796bb866-384.webp",
+        "width": 384
+      }
+    ]
+  },
+  "/images/1.Swiftpoint1.png": {
+    "src": "/optimized/1039ea02bce5427d-240.webp",
+    "width": 240,
+    "height": 240,
+    "variants": [
+      {
+        "src": "/optimized/1039ea02bce5427d-240.webp",
+        "width": 240
+      }
+    ]
+  },
+  "/images/1.Swiftpoint2.png": {
+    "src": "/optimized/42f7234a23ebde71-384.webp",
+    "width": 384,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/42f7234a23ebde71-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/42f7234a23ebde71-384.webp",
+        "width": 384
+      }
+    ]
+  },
+  "/images/1.Talstrike.png": {
+    "src": "/optimized/921c371c2e8fd615-2400.webp",
+    "width": 5760,
+    "height": 4320,
+    "variants": [
+      {
+        "src": "/optimized/921c371c2e8fd615-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/921c371c2e8fd615-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/921c371c2e8fd615-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/921c371c2e8fd615-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/921c371c2e8fd615-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/921c371c2e8fd615-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/1.Talstrike1.png": {
+    "src": "/optimized/13269295b4f8d47f-240.webp",
+    "width": 240,
+    "height": 240,
+    "variants": [
+      {
+        "src": "/optimized/13269295b4f8d47f-240.webp",
+        "width": 240
+      }
+    ]
+  },
+  "/images/1.Talstrike2.png": {
+    "src": "/optimized/bde21739dce54bda-384.webp",
+    "width": 384,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/bde21739dce54bda-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/bde21739dce54bda-384.webp",
+        "width": 384
+      }
+    ]
+  },
+  "/images/1.UoB1.png": {
+    "src": "/optimized/2bb90fd528f2e200-240.webp",
+    "width": 240,
+    "height": 240,
+    "variants": [
+      {
+        "src": "/optimized/2bb90fd528f2e200-240.webp",
+        "width": 240
+      }
+    ]
+  },
+  "/images/1.UoB2.png": {
+    "src": "/optimized/40cee161f0ac2fce-384.webp",
+    "width": 384,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/40cee161f0ac2fce-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/40cee161f0ac2fce-384.webp",
+        "width": 384
+      }
+    ]
+  },
+  "/images/1.WolleteImg.png": {
+    "src": "/optimized/c83e4e459456613d-2400.webp",
+    "width": 5760,
+    "height": 4096,
+    "variants": [
+      {
+        "src": "/optimized/c83e4e459456613d-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/c83e4e459456613d-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/c83e4e459456613d-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/c83e4e459456613d-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/c83e4e459456613d-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/c83e4e459456613d-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/1.Wollette1.png": {
+    "src": "/optimized/c9590b379836952e-320.webp",
+    "width": 320,
+    "height": 320,
+    "variants": [
+      {
+        "src": "/optimized/c9590b379836952e-320.webp",
+        "width": 320
+      }
+    ]
+  },
+  "/images/1.Wollette2.png": {
+    "src": "/optimized/38479e2a100a4af7-512.webp",
+    "width": 512,
+    "height": 168,
+    "variants": [
+      {
+        "src": "/optimized/38479e2a100a4af7-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/38479e2a100a4af7-512.webp",
+        "width": 512
+      }
+    ]
+  },
+  "/images/1.hero-bg.png": {
+    "src": "/optimized/1c8287362e99aa53-2400.webp",
+    "width": 2668,
+    "height": 1878,
+    "variants": [
+      {
+        "src": "/optimized/1c8287362e99aa53-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/1c8287362e99aa53-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/1c8287362e99aa53-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/1c8287362e99aa53-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/1c8287362e99aa53-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/1c8287362e99aa53-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/AccountHierarchy.png": {
+    "src": "/optimized/042828e19c82939a-1341.webp",
+    "width": 1341,
+    "height": 1503,
+    "variants": [
+      {
+        "src": "/optimized/042828e19c82939a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/042828e19c82939a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/042828e19c82939a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/042828e19c82939a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/042828e19c82939a-1341.webp",
+        "width": 1341
+      }
+    ]
+  },
+  "/images/B.Alsoit.png": {
+    "src": "/optimized/e431d8d2cd2a420c-1339.webp",
+    "width": 1339,
+    "height": 420,
+    "variants": [
+      {
+        "src": "/optimized/e431d8d2cd2a420c-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/e431d8d2cd2a420c-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/e431d8d2cd2a420c-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/e431d8d2cd2a420c-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/e431d8d2cd2a420c-1339.webp",
+        "width": 1339
+      }
+    ]
+  },
+  "/images/B.Bradcoin.png": {
+    "src": "/optimized/172aebcc5f958c74-1339.webp",
+    "width": 1339,
+    "height": 420,
+    "variants": [
+      {
+        "src": "/optimized/172aebcc5f958c74-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/172aebcc5f958c74-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/172aebcc5f958c74-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/172aebcc5f958c74-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/172aebcc5f958c74-1339.webp",
+        "width": 1339
+      }
+    ]
+  },
+  "/images/B.Swiftpoint.png": {
+    "src": "/optimized/03085acdb6fe88a7-1339.webp",
+    "width": 1339,
+    "height": 420,
+    "variants": [
+      {
+        "src": "/optimized/03085acdb6fe88a7-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/03085acdb6fe88a7-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/03085acdb6fe88a7-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/03085acdb6fe88a7-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/03085acdb6fe88a7-1339.webp",
+        "width": 1339
+      }
+    ]
+  },
+  "/images/B.Talstrike.png": {
+    "src": "/optimized/b4ec0b7eefcac773-1339.webp",
+    "width": 1339,
+    "height": 420,
+    "variants": [
+      {
+        "src": "/optimized/b4ec0b7eefcac773-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b4ec0b7eefcac773-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b4ec0b7eefcac773-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b4ec0b7eefcac773-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b4ec0b7eefcac773-1339.webp",
+        "width": 1339
+      }
+    ]
+  },
+  "/images/B.Telegraph.png": {
+    "src": "/optimized/7430498f4c0cf222-1339.webp",
+    "width": 1339,
+    "height": 420,
+    "variants": [
+      {
+        "src": "/optimized/7430498f4c0cf222-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/7430498f4c0cf222-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/7430498f4c0cf222-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/7430498f4c0cf222-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/7430498f4c0cf222-1339.webp",
+        "width": 1339
+      }
+    ]
+  },
+  "/images/B.UoB.png": {
+    "src": "/optimized/5811a5d311a65671-1339.webp",
+    "width": 1339,
+    "height": 420,
+    "variants": [
+      {
+        "src": "/optimized/5811a5d311a65671-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/5811a5d311a65671-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/5811a5d311a65671-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/5811a5d311a65671-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/5811a5d311a65671-1339.webp",
+        "width": 1339
+      }
+    ]
+  },
+  "/images/B.Wollette.png": {
+    "src": "/optimized/dfa770cb6a57be30-1339.webp",
+    "width": 1339,
+    "height": 420,
+    "variants": [
+      {
+        "src": "/optimized/dfa770cb6a57be30-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/dfa770cb6a57be30-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/dfa770cb6a57be30-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/dfa770cb6a57be30-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/dfa770cb6a57be30-1339.webp",
+        "width": 1339
+      }
+    ]
+  },
+  "/images/BradcoinBanner.png": {
+    "src": "/optimized/28812d06235ba02a-2400.webp",
+    "width": 5760,
+    "height": 1584,
+    "variants": [
+      {
+        "src": "/optimized/28812d06235ba02a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/28812d06235ba02a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/28812d06235ba02a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/28812d06235ba02a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/28812d06235ba02a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/28812d06235ba02a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/CrossBorderPayment.png": {
+    "src": "/optimized/8bbdb3ee3feac578-1341.webp",
+    "width": 1341,
+    "height": 1503,
+    "variants": [
+      {
+        "src": "/optimized/8bbdb3ee3feac578-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/8bbdb3ee3feac578-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/8bbdb3ee3feac578-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/8bbdb3ee3feac578-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/8bbdb3ee3feac578-1341.webp",
+        "width": 1341
+      }
+    ]
+  },
+  "/images/Icon1.png": {
+    "src": "/optimized/ad57f292574e7d2c-126.webp",
+    "width": 126,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/ad57f292574e7d2c-126.webp",
+        "width": 126
+      }
+    ]
+  },
+  "/images/Icon2.png": {
+    "src": "/optimized/0ad106bea7753bac-126.webp",
+    "width": 126,
+    "height": 130,
+    "variants": [
+      {
+        "src": "/optimized/0ad106bea7753bac-126.webp",
+        "width": 126
+      }
+    ]
+  },
+  "/images/Icon3.png": {
+    "src": "/optimized/2fc13d74e22486d4-126.webp",
+    "width": 126,
+    "height": 127,
+    "variants": [
+      {
+        "src": "/optimized/2fc13d74e22486d4-126.webp",
+        "width": 126
+      }
+    ]
+  },
+  "/images/Icon4.png": {
+    "src": "/optimized/cd270d731187cb81-126.webp",
+    "width": 126,
+    "height": 127,
+    "variants": [
+      {
+        "src": "/optimized/cd270d731187cb81-126.webp",
+        "width": 126
+      }
+    ]
+  },
+  "/images/LanCanster.png": {
+    "src": "/optimized/1e26bfb621cb9234-2400.webp",
+    "width": 8463,
+    "height": 5826,
+    "variants": [
+      {
+        "src": "/optimized/1e26bfb621cb9234-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/1e26bfb621cb9234-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/1e26bfb621cb9234-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/1e26bfb621cb9234-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/1e26bfb621cb9234-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/1e26bfb621cb9234-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/MetixSolutions.png": {
+    "src": "/optimized/0a0662934e3b3a94-2400.webp",
+    "width": 5016,
+    "height": 2823,
+    "variants": [
+      {
+        "src": "/optimized/0a0662934e3b3a94-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/0a0662934e3b3a94-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/0a0662934e3b3a94-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/0a0662934e3b3a94-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/0a0662934e3b3a94-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/0a0662934e3b3a94-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/Metrics1.png": {
+    "src": "/optimized/72541bb1c68ec53f-1156.webp",
+    "width": 1156,
+    "height": 1183,
+    "variants": [
+      {
+        "src": "/optimized/72541bb1c68ec53f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/72541bb1c68ec53f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/72541bb1c68ec53f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/72541bb1c68ec53f-1156.webp",
+        "width": 1156
+      }
+    ]
+  },
+  "/images/Metrics2.png": {
+    "src": "/optimized/3b96356064f18e6e-1155.webp",
+    "width": 1155,
+    "height": 814,
+    "variants": [
+      {
+        "src": "/optimized/3b96356064f18e6e-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/3b96356064f18e6e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/3b96356064f18e6e-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/3b96356064f18e6e-1155.webp",
+        "width": 1155
+      }
+    ]
+  },
+  "/images/SearchAI.png": {
+    "src": "/optimized/bef47515357f46ca-1341.webp",
+    "width": 1341,
+    "height": 1503,
+    "variants": [
+      {
+        "src": "/optimized/bef47515357f46ca-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/bef47515357f46ca-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/bef47515357f46ca-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/bef47515357f46ca-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/bef47515357f46ca-1341.webp",
+        "width": 1341
+      }
+    ]
+  },
+  "/images/StudentParticipation.png": {
+    "src": "/optimized/9a206b867f7c3bc2-1341.webp",
+    "width": 1341,
+    "height": 1503,
+    "variants": [
+      {
+        "src": "/optimized/9a206b867f7c3bc2-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/9a206b867f7c3bc2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/9a206b867f7c3bc2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/9a206b867f7c3bc2-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/9a206b867f7c3bc2-1341.webp",
+        "width": 1341
+      }
+    ]
+  },
+  "/images/SwiftpointBanner.png": {
+    "src": "/optimized/117cd4bc1f5a9f47-2400.webp",
+    "width": 5760,
+    "height": 1584,
+    "variants": [
+      {
+        "src": "/optimized/117cd4bc1f5a9f47-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/117cd4bc1f5a9f47-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/117cd4bc1f5a9f47-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/117cd4bc1f5a9f47-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/117cd4bc1f5a9f47-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/117cd4bc1f5a9f47-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/T.BradcoinLogo.png": {
+    "src": "/optimized/9716c1d410ef62e6-192.webp",
+    "width": 192,
+    "height": 192,
+    "variants": [
+      {
+        "src": "/optimized/9716c1d410ef62e6-192.webp",
+        "width": 192
+      }
+    ]
+  },
+  "/images/T.SwiftpointLogo.png": {
+    "src": "/optimized/6dc148ce73346887-192.webp",
+    "width": 192,
+    "height": 192,
+    "variants": [
+      {
+        "src": "/optimized/6dc148ce73346887-192.webp",
+        "width": 192
+      }
+    ]
+  },
+  "/images/T.Talstrike logo.png": {
+    "src": "/optimized/9f429e7f3ca358bd-192.webp",
+    "width": 192,
+    "height": 192,
+    "variants": [
+      {
+        "src": "/optimized/9f429e7f3ca358bd-192.webp",
+        "width": 192
+      }
+    ]
+  },
+  "/images/TalstrikeBanner.png": {
+    "src": "/optimized/e7bd1aea86ec663f-2400.webp",
+    "width": 5760,
+    "height": 1584,
+    "variants": [
+      {
+        "src": "/optimized/e7bd1aea86ec663f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/e7bd1aea86ec663f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/e7bd1aea86ec663f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/e7bd1aea86ec663f-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/e7bd1aea86ec663f-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/e7bd1aea86ec663f-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/UnifiedPayment.png": {
+    "src": "/optimized/708aebeb23e03cec-1341.webp",
+    "width": 1341,
+    "height": 1503,
+    "variants": [
+      {
+        "src": "/optimized/708aebeb23e03cec-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/708aebeb23e03cec-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/708aebeb23e03cec-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/708aebeb23e03cec-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/708aebeb23e03cec-1341.webp",
+        "width": 1341
+      }
+    ]
+  },
+  "/images/VendorsRedemption.png": {
+    "src": "/optimized/2a5a56cf6543132c-1341.webp",
+    "width": 1341,
+    "height": 1503,
+    "variants": [
+      {
+        "src": "/optimized/2a5a56cf6543132c-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/2a5a56cf6543132c-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/2a5a56cf6543132c-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/2a5a56cf6543132c-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/2a5a56cf6543132c-1341.webp",
+        "width": 1341
+      }
+    ]
+  },
+  "/images/WolletteWhite.png": {
+    "src": "/optimized/1d6af9570e512878-1672.webp",
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "/optimized/1d6af9570e512878-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/1d6af9570e512878-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/1d6af9570e512878-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/1d6af9570e512878-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/1d6af9570e512878-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/1d6af9570e512878-1672.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "/images/activeUser.png": {
+    "src": "/optimized/2ca66d3d940b0929-127.webp",
+    "width": 127,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/2ca66d3d940b0929-127.webp",
+        "width": 127
+      }
+    ]
+  },
+  "/images/alertImg.png": {
+    "src": "/optimized/b34859fc0fb467fd-72.webp",
+    "width": 72,
+    "height": 72,
+    "variants": [
+      {
+        "src": "/optimized/b34859fc0fb467fd-72.webp",
+        "width": 72
+      }
+    ]
+  },
+  "/images/alsoit.io.png": {
+    "src": "/optimized/fd60815644545a1a-900.webp",
+    "width": 900,
+    "height": 900,
+    "variants": [
+      {
+        "src": "/optimized/fd60815644545a1a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/fd60815644545a1a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/fd60815644545a1a-900.webp",
+        "width": 900
+      }
+    ]
+  },
+  "/images/cardFour.png": {
+    "src": "/optimized/714359280acfdbfd-1266.webp",
+    "width": 1266,
+    "height": 951,
+    "variants": [
+      {
+        "src": "/optimized/714359280acfdbfd-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/714359280acfdbfd-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/714359280acfdbfd-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/714359280acfdbfd-1266.webp",
+        "width": 1266
+      }
+    ]
+  },
+  "/images/cardOne.png": {
+    "src": "/optimized/559487c99a0aa5a9-1266.webp",
+    "width": 1266,
+    "height": 951,
+    "variants": [
+      {
+        "src": "/optimized/559487c99a0aa5a9-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/559487c99a0aa5a9-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/559487c99a0aa5a9-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/559487c99a0aa5a9-1266.webp",
+        "width": 1266
+      }
+    ]
+  },
+  "/images/cardThree.png": {
+    "src": "/optimized/94f128c474194103-1266.webp",
+    "width": 1266,
+    "height": 951,
+    "variants": [
+      {
+        "src": "/optimized/94f128c474194103-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/94f128c474194103-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/94f128c474194103-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/94f128c474194103-1266.webp",
+        "width": 1266
+      }
+    ]
+  },
+  "/images/cardTwo.png": {
+    "src": "/optimized/917f3feacf6cb462-1266.webp",
+    "width": 1266,
+    "height": 951,
+    "variants": [
+      {
+        "src": "/optimized/917f3feacf6cb462-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/917f3feacf6cb462-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/917f3feacf6cb462-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/917f3feacf6cb462-1266.webp",
+        "width": 1266
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/01.png": {
+    "src": "/optimized/cc5785182e502f9e-2400.webp",
+    "width": 12288,
+    "height": 11925,
+    "variants": [
+      {
+        "src": "/optimized/cc5785182e502f9e-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/02.png": {
+    "src": "/optimized/9b813f9db3a73e07-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/9b813f9db3a73e07-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/03.png": {
+    "src": "/optimized/348df6fb7ff35ac6-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/348df6fb7ff35ac6-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/04.png": {
+    "src": "/optimized/bb25014a6f9b4388-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/bb25014a6f9b4388-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/05.png": {
+    "src": "/optimized/957feefbda347bee-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/957feefbda347bee-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/957feefbda347bee-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/957feefbda347bee-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/957feefbda347bee-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/957feefbda347bee-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/957feefbda347bee-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/06.png": {
+    "src": "/optimized/fd7d8508e0c0376a-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/fd7d8508e0c0376a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/07.png": {
+    "src": "/optimized/706a7c62384b79a5-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/706a7c62384b79a5-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/08.png": {
+    "src": "/optimized/b143692cd8695691-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/b143692cd8695691-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b143692cd8695691-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b143692cd8695691-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b143692cd8695691-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b143692cd8695691-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/b143692cd8695691-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/09.png": {
+    "src": "/optimized/352a79275cf4985f-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/352a79275cf4985f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/10.png": {
+    "src": "/optimized/51a4f1641b60be71-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/51a4f1641b60be71-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/11.png": {
+    "src": "/optimized/4ae75558a370b148-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/4ae75558a370b148-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/12.png": {
+    "src": "/optimized/b328977b689d7ac1-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/b328977b689d7ac1-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/13.png": {
+    "src": "/optimized/09e34ea33f4e3678-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/09e34ea33f4e3678-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/14.png": {
+    "src": "/optimized/c9c8034b3b3a1922-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/c9c8034b3b3a1922-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/student-participation/15.png": {
+    "src": "/optimized/4cfc8784edfa421b-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/4cfc8784edfa421b-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/01.png": {
+    "src": "/optimized/cc5785182e502f9e-2400.webp",
+    "width": 12288,
+    "height": 11925,
+    "variants": [
+      {
+        "src": "/optimized/cc5785182e502f9e-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/cc5785182e502f9e-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/02.png": {
+    "src": "/optimized/9b813f9db3a73e07-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/9b813f9db3a73e07-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/9b813f9db3a73e07-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/03.png": {
+    "src": "/optimized/348df6fb7ff35ac6-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/348df6fb7ff35ac6-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/348df6fb7ff35ac6-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/04.png": {
+    "src": "/optimized/bb25014a6f9b4388-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/bb25014a6f9b4388-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/bb25014a6f9b4388-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/05.png": {
+    "src": "/optimized/957feefbda347bee-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/957feefbda347bee-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/957feefbda347bee-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/957feefbda347bee-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/957feefbda347bee-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/957feefbda347bee-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/957feefbda347bee-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/06.png": {
+    "src": "/optimized/fd7d8508e0c0376a-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/fd7d8508e0c0376a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/fd7d8508e0c0376a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/07.png": {
+    "src": "/optimized/706a7c62384b79a5-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/706a7c62384b79a5-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/706a7c62384b79a5-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/08.png": {
+    "src": "/optimized/b143692cd8695691-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/b143692cd8695691-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b143692cd8695691-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b143692cd8695691-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b143692cd8695691-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b143692cd8695691-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/b143692cd8695691-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/09.png": {
+    "src": "/optimized/352a79275cf4985f-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/352a79275cf4985f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/352a79275cf4985f-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/10.png": {
+    "src": "/optimized/51a4f1641b60be71-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/51a4f1641b60be71-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/51a4f1641b60be71-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/11.png": {
+    "src": "/optimized/4ae75558a370b148-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/4ae75558a370b148-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/4ae75558a370b148-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/12.png": {
+    "src": "/optimized/b328977b689d7ac1-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/b328977b689d7ac1-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/b328977b689d7ac1-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/13.png": {
+    "src": "/optimized/09e34ea33f4e3678-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/09e34ea33f4e3678-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/09e34ea33f4e3678-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/14.png": {
+    "src": "/optimized/c9c8034b3b3a1922-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/c9c8034b3b3a1922-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/c9c8034b3b3a1922-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/bradcoin/vendors-redemption/15.png": {
+    "src": "/optimized/4cfc8784edfa421b-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/4cfc8784edfa421b-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/4cfc8784edfa421b-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/01.png": {
+    "src": "/optimized/502c391d7ba1345a-2400.webp",
+    "width": 12288,
+    "height": 11925,
+    "variants": [
+      {
+        "src": "/optimized/502c391d7ba1345a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/502c391d7ba1345a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/502c391d7ba1345a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/502c391d7ba1345a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/502c391d7ba1345a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/502c391d7ba1345a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/02.png": {
+    "src": "/optimized/b4e55fa9c62f1f6a-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/b4e55fa9c62f1f6a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b4e55fa9c62f1f6a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b4e55fa9c62f1f6a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b4e55fa9c62f1f6a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b4e55fa9c62f1f6a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/b4e55fa9c62f1f6a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/03.png": {
+    "src": "/optimized/12da15359b18dc64-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/12da15359b18dc64-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/12da15359b18dc64-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/12da15359b18dc64-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/12da15359b18dc64-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/12da15359b18dc64-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/12da15359b18dc64-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/04.png": {
+    "src": "/optimized/edca0a531d9c889e-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/edca0a531d9c889e-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/edca0a531d9c889e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/edca0a531d9c889e-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/edca0a531d9c889e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/edca0a531d9c889e-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/edca0a531d9c889e-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/05.png": {
+    "src": "/optimized/5c56d226091e06bd-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/5c56d226091e06bd-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/5c56d226091e06bd-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/5c56d226091e06bd-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/5c56d226091e06bd-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/5c56d226091e06bd-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/5c56d226091e06bd-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/06.png": {
+    "src": "/optimized/364f43768a91ee58-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/364f43768a91ee58-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/364f43768a91ee58-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/364f43768a91ee58-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/364f43768a91ee58-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/364f43768a91ee58-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/364f43768a91ee58-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/07.png": {
+    "src": "/optimized/7535ee209579be19-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/7535ee209579be19-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/7535ee209579be19-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/7535ee209579be19-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/7535ee209579be19-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/7535ee209579be19-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/7535ee209579be19-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/08.png": {
+    "src": "/optimized/632d6d6bf1de63b3-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/632d6d6bf1de63b3-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/632d6d6bf1de63b3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/632d6d6bf1de63b3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/632d6d6bf1de63b3-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/632d6d6bf1de63b3-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/632d6d6bf1de63b3-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/09.png": {
+    "src": "/optimized/2e945782972c7853-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/2e945782972c7853-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/2e945782972c7853-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/2e945782972c7853-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/2e945782972c7853-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/2e945782972c7853-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/2e945782972c7853-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/10.png": {
+    "src": "/optimized/277873059e747ae9-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/277873059e747ae9-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/277873059e747ae9-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/277873059e747ae9-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/277873059e747ae9-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/277873059e747ae9-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/277873059e747ae9-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/11.png": {
+    "src": "/optimized/98875556e94b5f17-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/98875556e94b5f17-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/98875556e94b5f17-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/98875556e94b5f17-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/98875556e94b5f17-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/98875556e94b5f17-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/98875556e94b5f17-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/12.png": {
+    "src": "/optimized/4504f77b5b2942d2-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/4504f77b5b2942d2-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/4504f77b5b2942d2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/4504f77b5b2942d2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/4504f77b5b2942d2-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/4504f77b5b2942d2-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/4504f77b5b2942d2-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/13.png": {
+    "src": "/optimized/9440c653ad0d2c09-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/9440c653ad0d2c09-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/9440c653ad0d2c09-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/9440c653ad0d2c09-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/9440c653ad0d2c09-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/9440c653ad0d2c09-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/9440c653ad0d2c09-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/14.png": {
+    "src": "/optimized/f772b6ad515757e4-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/f772b6ad515757e4-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/f772b6ad515757e4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/f772b6ad515757e4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/f772b6ad515757e4-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/f772b6ad515757e4-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/f772b6ad515757e4-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/cross-border-payments/15.png": {
+    "src": "/optimized/cad52111644f1d6b-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/cad52111644f1d6b-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/cad52111644f1d6b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/cad52111644f1d6b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/cad52111644f1d6b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/cad52111644f1d6b-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/cad52111644f1d6b-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/01.png": {
+    "src": "/optimized/c60d0b3dc5e1d315-2400.webp",
+    "width": 12288,
+    "height": 11925,
+    "variants": [
+      {
+        "src": "/optimized/c60d0b3dc5e1d315-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/c60d0b3dc5e1d315-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/c60d0b3dc5e1d315-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/c60d0b3dc5e1d315-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/c60d0b3dc5e1d315-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/c60d0b3dc5e1d315-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/02.png": {
+    "src": "/optimized/02f7ed2f7d004792-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/02f7ed2f7d004792-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/02f7ed2f7d004792-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/02f7ed2f7d004792-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/02f7ed2f7d004792-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/02f7ed2f7d004792-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/02f7ed2f7d004792-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/03.png": {
+    "src": "/optimized/d43f78c51852046d-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/d43f78c51852046d-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/d43f78c51852046d-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/d43f78c51852046d-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/d43f78c51852046d-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/d43f78c51852046d-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/d43f78c51852046d-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/04.png": {
+    "src": "/optimized/80f93fbed6db7e20-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/80f93fbed6db7e20-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/80f93fbed6db7e20-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/80f93fbed6db7e20-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/80f93fbed6db7e20-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/80f93fbed6db7e20-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/80f93fbed6db7e20-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/05.png": {
+    "src": "/optimized/b640839cb98dc7dc-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/b640839cb98dc7dc-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b640839cb98dc7dc-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b640839cb98dc7dc-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b640839cb98dc7dc-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b640839cb98dc7dc-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/b640839cb98dc7dc-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/06.png": {
+    "src": "/optimized/9a072f502124884f-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/9a072f502124884f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/9a072f502124884f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/9a072f502124884f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/9a072f502124884f-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/9a072f502124884f-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/9a072f502124884f-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/07.png": {
+    "src": "/optimized/8a01c2599bed7280-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/8a01c2599bed7280-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/8a01c2599bed7280-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/8a01c2599bed7280-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/8a01c2599bed7280-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/8a01c2599bed7280-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/8a01c2599bed7280-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/08.png": {
+    "src": "/optimized/278358bfc3564747-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/278358bfc3564747-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/278358bfc3564747-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/278358bfc3564747-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/278358bfc3564747-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/278358bfc3564747-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/278358bfc3564747-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/09.png": {
+    "src": "/optimized/3ccef184c5dcb9f3-2400.webp",
+    "width": 13470,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/3ccef184c5dcb9f3-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/3ccef184c5dcb9f3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/3ccef184c5dcb9f3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/3ccef184c5dcb9f3-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/3ccef184c5dcb9f3-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/3ccef184c5dcb9f3-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/10.png": {
+    "src": "/optimized/ccd8dbf05cecf852-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/ccd8dbf05cecf852-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/ccd8dbf05cecf852-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/ccd8dbf05cecf852-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/ccd8dbf05cecf852-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/ccd8dbf05cecf852-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/ccd8dbf05cecf852-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/11.png": {
+    "src": "/optimized/d9ed8aa7c9a15dda-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/d9ed8aa7c9a15dda-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/d9ed8aa7c9a15dda-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/d9ed8aa7c9a15dda-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/d9ed8aa7c9a15dda-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/d9ed8aa7c9a15dda-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/d9ed8aa7c9a15dda-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/12.png": {
+    "src": "/optimized/8a37e9f42205b29b-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/8a37e9f42205b29b-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/8a37e9f42205b29b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/8a37e9f42205b29b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/8a37e9f42205b29b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/8a37e9f42205b29b-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/8a37e9f42205b29b-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/13.png": {
+    "src": "/optimized/d0694921712c80ea-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/d0694921712c80ea-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/d0694921712c80ea-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/d0694921712c80ea-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/d0694921712c80ea-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/d0694921712c80ea-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/d0694921712c80ea-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/14.png": {
+    "src": "/optimized/b8e50fad7585521e-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/b8e50fad7585521e-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b8e50fad7585521e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b8e50fad7585521e-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b8e50fad7585521e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b8e50fad7585521e-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/b8e50fad7585521e-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/swiftpoint/unified-bills-payment/15.png": {
+    "src": "/optimized/d1c9406e24a16bf1-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/d1c9406e24a16bf1-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/d1c9406e24a16bf1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/d1c9406e24a16bf1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/d1c9406e24a16bf1-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/d1c9406e24a16bf1-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/d1c9406e24a16bf1-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/01.png": {
+    "src": "/optimized/e1b771f050db4503-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/e1b771f050db4503-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/e1b771f050db4503-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/e1b771f050db4503-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/e1b771f050db4503-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/e1b771f050db4503-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/e1b771f050db4503-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/02.png": {
+    "src": "/optimized/fe585924cc1655a5-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/fe585924cc1655a5-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/fe585924cc1655a5-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/fe585924cc1655a5-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/fe585924cc1655a5-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/fe585924cc1655a5-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/fe585924cc1655a5-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/03.png": {
+    "src": "/optimized/0b1f95aaf811193f-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/0b1f95aaf811193f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/0b1f95aaf811193f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/0b1f95aaf811193f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/0b1f95aaf811193f-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/0b1f95aaf811193f-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/0b1f95aaf811193f-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/04.png": {
+    "src": "/optimized/5d7272c6e71c3531-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/5d7272c6e71c3531-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/5d7272c6e71c3531-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/5d7272c6e71c3531-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/5d7272c6e71c3531-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/5d7272c6e71c3531-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/5d7272c6e71c3531-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/05.png": {
+    "src": "/optimized/7d45c99b04d5e51f-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/7d45c99b04d5e51f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/7d45c99b04d5e51f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/7d45c99b04d5e51f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/7d45c99b04d5e51f-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/7d45c99b04d5e51f-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/7d45c99b04d5e51f-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/06.png": {
+    "src": "/optimized/484ce8f84210e27a-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/484ce8f84210e27a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/484ce8f84210e27a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/484ce8f84210e27a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/484ce8f84210e27a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/484ce8f84210e27a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/484ce8f84210e27a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/07.png": {
+    "src": "/optimized/3faf7743031e4fd2-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/3faf7743031e4fd2-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/3faf7743031e4fd2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/3faf7743031e4fd2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/3faf7743031e4fd2-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/3faf7743031e4fd2-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/3faf7743031e4fd2-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/08.png": {
+    "src": "/optimized/bca6565db027c708-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/bca6565db027c708-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/bca6565db027c708-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/bca6565db027c708-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/bca6565db027c708-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/bca6565db027c708-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/bca6565db027c708-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/09.png": {
+    "src": "/optimized/7167b6ce3f29098b-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/7167b6ce3f29098b-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/7167b6ce3f29098b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/7167b6ce3f29098b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/7167b6ce3f29098b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/7167b6ce3f29098b-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/7167b6ce3f29098b-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/10.png": {
+    "src": "/optimized/7b1a7e47b7fa559a-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/7b1a7e47b7fa559a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/7b1a7e47b7fa559a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/7b1a7e47b7fa559a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/7b1a7e47b7fa559a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/7b1a7e47b7fa559a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/7b1a7e47b7fa559a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/11.png": {
+    "src": "/optimized/38a58b72eb5c4e6b-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/38a58b72eb5c4e6b-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/38a58b72eb5c4e6b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/38a58b72eb5c4e6b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/38a58b72eb5c4e6b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/38a58b72eb5c4e6b-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/38a58b72eb5c4e6b-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/12.png": {
+    "src": "/optimized/ba1ae14936cce0c1-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/ba1ae14936cce0c1-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/ba1ae14936cce0c1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/ba1ae14936cce0c1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/ba1ae14936cce0c1-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/ba1ae14936cce0c1-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/ba1ae14936cce0c1-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/13.png": {
+    "src": "/optimized/00d7765d05fd4d88-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/00d7765d05fd4d88-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/00d7765d05fd4d88-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/00d7765d05fd4d88-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/00d7765d05fd4d88-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/00d7765d05fd4d88-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/00d7765d05fd4d88-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/14.png": {
+    "src": "/optimized/56065704c0fba998-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/56065704c0fba998-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/56065704c0fba998-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/56065704c0fba998-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/56065704c0fba998-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/56065704c0fba998-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/56065704c0fba998-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/account-type/15.png": {
+    "src": "/optimized/afab790556d5ff4a-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/afab790556d5ff4a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/afab790556d5ff4a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/afab790556d5ff4a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/afab790556d5ff4a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/afab790556d5ff4a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/afab790556d5ff4a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/01.png": {
+    "src": "/optimized/0fd63f421f35968e-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/0fd63f421f35968e-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/0fd63f421f35968e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/0fd63f421f35968e-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/0fd63f421f35968e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/0fd63f421f35968e-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/0fd63f421f35968e-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/02.png": {
+    "src": "/optimized/09211c47f5824b8f-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/09211c47f5824b8f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/09211c47f5824b8f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/09211c47f5824b8f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/09211c47f5824b8f-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/09211c47f5824b8f-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/09211c47f5824b8f-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/03.png": {
+    "src": "/optimized/9ae2d46a169db223-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/9ae2d46a169db223-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/9ae2d46a169db223-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/9ae2d46a169db223-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/9ae2d46a169db223-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/9ae2d46a169db223-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/9ae2d46a169db223-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/04.png": {
+    "src": "/optimized/59782c869338160c-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/59782c869338160c-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/59782c869338160c-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/59782c869338160c-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/59782c869338160c-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/59782c869338160c-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/59782c869338160c-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/05.png": {
+    "src": "/optimized/56b46fe0ce9fd368-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/56b46fe0ce9fd368-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/56b46fe0ce9fd368-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/56b46fe0ce9fd368-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/56b46fe0ce9fd368-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/56b46fe0ce9fd368-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/56b46fe0ce9fd368-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/06.png": {
+    "src": "/optimized/4175cf248cbac137-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/4175cf248cbac137-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/4175cf248cbac137-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/4175cf248cbac137-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/4175cf248cbac137-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/4175cf248cbac137-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/4175cf248cbac137-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/07.png": {
+    "src": "/optimized/39259e8ddc222aa9-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/39259e8ddc222aa9-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/39259e8ddc222aa9-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/39259e8ddc222aa9-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/39259e8ddc222aa9-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/39259e8ddc222aa9-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/39259e8ddc222aa9-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/08.png": {
+    "src": "/optimized/7edba591eda8e44b-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/7edba591eda8e44b-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/7edba591eda8e44b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/7edba591eda8e44b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/7edba591eda8e44b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/7edba591eda8e44b-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/7edba591eda8e44b-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/09.png": {
+    "src": "/optimized/11612ee8cad399ec-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/11612ee8cad399ec-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/11612ee8cad399ec-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/11612ee8cad399ec-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/11612ee8cad399ec-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/11612ee8cad399ec-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/11612ee8cad399ec-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/10.png": {
+    "src": "/optimized/03677feec072373f-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/03677feec072373f-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/03677feec072373f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/03677feec072373f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/03677feec072373f-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/03677feec072373f-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/03677feec072373f-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/11.png": {
+    "src": "/optimized/9adae4cfced00220-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/9adae4cfced00220-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/9adae4cfced00220-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/9adae4cfced00220-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/9adae4cfced00220-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/9adae4cfced00220-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/9adae4cfced00220-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/12.png": {
+    "src": "/optimized/123b7396b9c5cff6-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/123b7396b9c5cff6-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/123b7396b9c5cff6-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/123b7396b9c5cff6-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/123b7396b9c5cff6-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/123b7396b9c5cff6-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/123b7396b9c5cff6-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/13.png": {
+    "src": "/optimized/85a268290114708a-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/85a268290114708a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/85a268290114708a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/85a268290114708a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/85a268290114708a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/85a268290114708a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/85a268290114708a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/14.png": {
+    "src": "/optimized/6d3ed48bb621f2f0-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/6d3ed48bb621f2f0-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/6d3ed48bb621f2f0-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/6d3ed48bb621f2f0-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/6d3ed48bb621f2f0-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/6d3ed48bb621f2f0-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/6d3ed48bb621f2f0-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/case-studies/talstrike/search-ai/15.png": {
+    "src": "/optimized/ab3246aadfcb22bd-2400.webp",
+    "width": 12288,
+    "height": 11913,
+    "variants": [
+      {
+        "src": "/optimized/ab3246aadfcb22bd-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/ab3246aadfcb22bd-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/ab3246aadfcb22bd-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/ab3246aadfcb22bd-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/ab3246aadfcb22bd-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/ab3246aadfcb22bd-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/close.png": {
+    "src": "/optimized/8a1d160a5815aee8-72.webp",
+    "width": 72,
+    "height": 72,
+    "variants": [
+      {
+        "src": "/optimized/8a1d160a5815aee8-72.webp",
+        "width": 72
+      }
+    ]
+  },
+  "/images/company1.png": {
+    "src": "/optimized/2ea5e71aeefead6d-1788.webp",
+    "width": 1788,
+    "height": 1491,
+    "variants": [
+      {
+        "src": "/optimized/2ea5e71aeefead6d-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/2ea5e71aeefead6d-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/2ea5e71aeefead6d-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/2ea5e71aeefead6d-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/2ea5e71aeefead6d-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/2ea5e71aeefead6d-1788.webp",
+        "width": 1788
+      }
+    ]
+  },
+  "/images/company2.png": {
+    "src": "/optimized/c2cd3e70ec4837fc-1788.webp",
+    "width": 1788,
+    "height": 1491,
+    "variants": [
+      {
+        "src": "/optimized/c2cd3e70ec4837fc-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/c2cd3e70ec4837fc-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/c2cd3e70ec4837fc-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/c2cd3e70ec4837fc-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/c2cd3e70ec4837fc-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/c2cd3e70ec4837fc-1788.webp",
+        "width": 1788
+      }
+    ]
+  },
+  "/images/company3.png": {
+    "src": "/optimized/2e78723acd73e1ac-1788.webp",
+    "width": 1788,
+    "height": 1491,
+    "variants": [
+      {
+        "src": "/optimized/2e78723acd73e1ac-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/2e78723acd73e1ac-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/2e78723acd73e1ac-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/2e78723acd73e1ac-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/2e78723acd73e1ac-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/2e78723acd73e1ac-1788.webp",
+        "width": 1788
+      }
+    ]
+  },
+  "/images/company4.png": {
+    "src": "/optimized/003ce4ceb31a7868-1788.webp",
+    "width": 1788,
+    "height": 1491,
+    "variants": [
+      {
+        "src": "/optimized/003ce4ceb31a7868-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/003ce4ceb31a7868-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/003ce4ceb31a7868-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/003ce4ceb31a7868-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/003ce4ceb31a7868-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/003ce4ceb31a7868-1788.webp",
+        "width": 1788
+      }
+    ]
+  },
+  "/images/favIcon.png": {
+    "src": "/optimized/2568019d4a945301-1536.webp",
+    "width": 1536,
+    "height": 1536,
+    "variants": [
+      {
+        "src": "/optimized/2568019d4a945301-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/2568019d4a945301-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/2568019d4a945301-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/2568019d4a945301-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/2568019d4a945301-1536.webp",
+        "width": 1536
+      }
+    ]
+  },
+  "/images/footerBG.png": {
+    "src": "/optimized/6bef2d41e3e925c4-2400.webp",
+    "width": 5184,
+    "height": 1617,
+    "variants": [
+      {
+        "src": "/optimized/6bef2d41e3e925c4-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/6bef2d41e3e925c4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/6bef2d41e3e925c4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/6bef2d41e3e925c4-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/6bef2d41e3e925c4-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/6bef2d41e3e925c4-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/globe-poster.png": {
+    "src": "/optimized/0376add2e94f6b65-2400.webp",
+    "width": 4320,
+    "height": 3072,
+    "variants": [
+      {
+        "src": "/optimized/0376add2e94f6b65-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/0376add2e94f6b65-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/0376add2e94f6b65-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/0376add2e94f6b65-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/0376add2e94f6b65-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/0376add2e94f6b65-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/heritageEstate.png": {
+    "src": "/optimized/958e4397dbfe77f5-904.webp",
+    "width": 904,
+    "height": 736,
+    "variants": [
+      {
+        "src": "/optimized/958e4397dbfe77f5-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/958e4397dbfe77f5-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/958e4397dbfe77f5-904.webp",
+        "width": 904
+      }
+    ]
+  },
+  "/images/imageStack.png": {
+    "src": "/optimized/e722d7d5ccc31492-1800.webp",
+    "width": 1800,
+    "height": 1764,
+    "variants": [
+      {
+        "src": "/optimized/e722d7d5ccc31492-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/e722d7d5ccc31492-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/e722d7d5ccc31492-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/e722d7d5ccc31492-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/e722d7d5ccc31492-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/e722d7d5ccc31492-1800.webp",
+        "width": 1800
+      }
+    ]
+  },
+  "/images/menu.png": {
+    "src": "/optimized/fdd62175bdc07dd9-72.webp",
+    "width": 72,
+    "height": 72,
+    "variants": [
+      {
+        "src": "/optimized/fdd62175bdc07dd9-72.webp",
+        "width": 72
+      }
+    ]
+  },
+  "/images/pieChartImg.png": {
+    "src": "/optimized/2d293d2381cea927-1125.webp",
+    "width": 1125,
+    "height": 1126,
+    "variants": [
+      {
+        "src": "/optimized/2d293d2381cea927-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/2d293d2381cea927-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/2d293d2381cea927-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/2d293d2381cea927-1125.webp",
+        "width": 1125
+      }
+    ]
+  },
+  "/images/remark.png": {
+    "src": "/optimized/232cd09ab1875efd-126.webp",
+    "width": 126,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/232cd09ab1875efd-126.webp",
+        "width": 126
+      }
+    ]
+  },
+  "/images/slide1.png": {
+    "src": "/optimized/b9a63681876b7ac3-2400.webp",
+    "width": 5184,
+    "height": 2211,
+    "variants": [
+      {
+        "src": "/optimized/b9a63681876b7ac3-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/b9a63681876b7ac3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/b9a63681876b7ac3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/b9a63681876b7ac3-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/b9a63681876b7ac3-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/b9a63681876b7ac3-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/slide2.png": {
+    "src": "/optimized/2b466401f54c171a-2400.webp",
+    "width": 5184,
+    "height": 2211,
+    "variants": [
+      {
+        "src": "/optimized/2b466401f54c171a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/2b466401f54c171a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/2b466401f54c171a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/2b466401f54c171a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/2b466401f54c171a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/2b466401f54c171a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/slide3.png": {
+    "src": "/optimized/076694a855e74a4a-2400.webp",
+    "width": 5184,
+    "height": 2211,
+    "variants": [
+      {
+        "src": "/optimized/076694a855e74a4a-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/076694a855e74a4a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/076694a855e74a4a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/076694a855e74a4a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/076694a855e74a4a-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/076694a855e74a4a-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/slide4.png": {
+    "src": "/optimized/50642094c8eafc98-2400.webp",
+    "width": 5184,
+    "height": 2211,
+    "variants": [
+      {
+        "src": "/optimized/50642094c8eafc98-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/50642094c8eafc98-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/50642094c8eafc98-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/50642094c8eafc98-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/50642094c8eafc98-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/50642094c8eafc98-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/talstrike-cover.png": {
+    "src": "/optimized/956b40434eaeefff-2400.webp",
+    "width": 4321,
+    "height": 3240,
+    "variants": [
+      {
+        "src": "/optimized/956b40434eaeefff-320.webp",
+        "width": 320
+      },
+      {
+        "src": "/optimized/956b40434eaeefff-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/optimized/956b40434eaeefff-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/optimized/956b40434eaeefff-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/optimized/956b40434eaeefff-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "/optimized/956b40434eaeefff-2400.webp",
+        "width": 2400
+      }
+    ]
+  },
+  "/images/usability.png": {
+    "src": "/optimized/0cb716bc9427d910-127.webp",
+    "width": 127,
+    "height": 126,
+    "variants": [
+      {
+        "src": "/optimized/0cb716bc9427d910-127.webp",
+        "width": 127
+      }
+    ]
+  }
+}
