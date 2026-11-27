@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { Experience } from "@/components/Experience";
 import { Arrow } from "@/components/Icons";
@@ -56,13 +57,17 @@ export default function AboutPage() {
         aria-label="Biography"
       >
         <div className="space-y-4 md:sticky md:top-28 md:h-fit">
-<div
-            data-reveal
-            aria-hidden="true"
-            className="well grid aspect-[4/5] place-items-center !rounded-[var(--radius-lg)] bg-[radial-gradient(120%_90%_at_30%_20%,#262626,#0d0d0d)]"
-          >
-            <span className="serif-accent text-[7rem] leading-none text-result sm:text-[9rem]">EJ</span>
-          </div>
+<figure data-reveal className="portrait well overflow-hidden !rounded-[var(--radius-lg)]">
+            <Image
+              src="/images/evelyn-joseph.webp"
+              alt="Portrait of Evelyn Joseph"
+              width={640}
+              height={800}
+              sizes="(min-width: 1024px) 24rem, (min-width: 768px) 20rem, 100vw"
+              priority
+              className="h-auto w-full object-cover"
+            />
+          </figure>
           {status}
         </div>
 
