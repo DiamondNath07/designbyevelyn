@@ -1,5 +1,5 @@
 /**
- * Case study content. Text comes from Nathaniel's original case-study decks,
+ * Case study content. Text adapted from the original case-study decks,
  * lightly edited for the web. Image keys refer to entries in src/lib/asset-manifest.json.
  */
 
@@ -74,15 +74,15 @@ export const projects: Project[] = [
     headline: "Cross-border payments and bills for businesses in 10 countries",
     caption: "Building payments that cross borders",
     closing:
-      "Swiftpoint grew into 10 countries. In the founder's words, I took a complex concept to a working prototype in a week, and it reached a live MVP within months.",
+      "Swiftpoint grew into 10 countries. The team took a complex concept to a working prototype in a week, and it reached a live MVP within months.",
     tags: ["2019 – 2022", "Mobile & web", "Fintech"],
     motion: { src: "videos/web/swiftpoint.mp4", poster: "videos/web/swiftpoint.jpg" },
     sector: "Fintech · Cross-border payments",
     tagline: "Currency conversion, transfers and bill payments in one account.",
     summary:
-      "Swiftpoint brings payments and financial transactions into one platform: wallet funding, bill payments, transaction records and local and international currencies. I led product design as it grew into 10 countries, designing the cross-border transfer journey, single sign-on and the unified bill-payment experience.",
-    role: "UI/UX Designer (product design lead)",
-    dates: "May 2019 – Jan 2022",
+      "Swiftpoint brings payments and financial transactions into one platform: wallet funding, bill payments, transaction records and local and international currencies. I worked on the visual, interaction and motion design as it grew into 10 countries, contributing to the cross-border transfer journey, single sign-on and the unified bill-payment experience.",
+    role: "Product Designer (visual, interaction & motion)",
+    dates: "Jun 2021 – Jan 2022",
     team: "Founder, product, integration and payments engineers",
     platform: "iOS, Android, web",
     tools: "Figma, payment-gateway review, multi-market research",
@@ -94,8 +94,7 @@ export const projects: Project[] = [
     cover: "/images/CrossBorderPayment.png",
     banner: "/images/SwiftpointBanner.png",
     video: "videos/Swiftpoint.mp4",
-    testimonialId: "swiftpoint",
-    accent: "#0f766e",
+        accent: "#0f766e",
     features: [
       {
         id: "cross-border-transfers",
@@ -104,7 +103,7 @@ export const projects: Project[] = [
           "Conversion and transfer joined in one journey, so businesses can settle with overseas partners without a bank detour.",
         figures: [
           { title: "Two services, one payment", body: "Businesses bought currency at a bank, then arranged a separate transfer. Settlement took days and several logins.", visual: "before" },
-          { title: "Designing from the gateways up", body: "I mapped every step the payment gateways required, then designed a journey that hides none of them." },
+          { title: "Designing from the gateways up", body: "The team mapped every step the payment gateways required, then designed a journey that hides none of them." },
           { title: "One sign-on, start to finish", body: "Single sign-on carries businesses from funding to transfer without logging in again.", visual: "screen1" },
           { title: "See the real cost before paying", body: "Amount, rate, fees and what the partner receives sit together before anyone authorises.", visual: "screen2" },
           { title: "The new flow", body: "Sign in, choose currencies, add recipient, review the total, authorise, track.", visual: "after" },
@@ -139,12 +138,12 @@ export const projects: Project[] = [
           ],
         },
         process: [
-          "I examined the payment gateways to understand every step users needed to fund, convert and transfer — this shaped how the interface could connect the journey.",
-          "I designed a single sign-on experience to remove repeated account access as users moved between payment and transfer.",
-          "I mapped gateway responses to understandable confirmation and status screens, to review with the technical team.",
+          "The team examined the payment gateways to understand every step users needed to fund, convert and transfer — this shaped how the interface could connect the journey.",
+          "I contributed to the interface and interaction design of a single sign-on experience that removed repeated account access between payment and transfer.",
+          "I designed the confirmation and status screens that turned gateway responses into clear messages, reviewed with the technical team.",
         ],
         ownership: [
-          "My contribution was turning payment-gateway requirements into a user journey, and designing account access that reduced interruptions during payment and transfer.",
+          "My contribution was the visual and interaction design of the transfer journey and account-access screens, and the motion that made each step easy to follow.",
         ],
         solution: [
           "Currency conversion and cross-border payment become one connected Swiftpoint experience, with single sign-on carrying businesses through to settlement.",
@@ -231,7 +230,7 @@ export const projects: Project[] = [
           "Connected confirmed payments to a transaction log and defined how records support spending analysis.",
         ],
         ownership: [
-          "My focus was the connection between bill selection, payment and tracking: organising the payment page and shaping how people move from paying a bill to reviewing their records. This built on three months of broader payment research.",
+          "My focus was the interface and motion for bill selection, payment and tracking: the visual layout of the payment page and the transitions from paying a bill to reviewing records. This built on three months of team payment research.",
         ],
         solution: [
           "Supported bill categories sit on one curated payment page, so people choose the service they need inside Swiftpoint, with one shared payment experience.",
@@ -278,16 +277,16 @@ export const projects: Project[] = [
     headline: "Taking a sports talent platform from prototype to 10K subscribers",
     caption: "Designing AI-assisted talent discovery",
     closing:
-      "Talstrike went from an early prototype to 10K+ subscribers in its first year, and the V2 redesign lifted sign-ups 85%. The design system I set up is the one the team still builds on.",
+      "Talstrike went from an early prototype to 10K+ subscribers in its first year, and the V2 redesign lifted sign-ups 85%. I contributed components and dark-mode styles to the design system the team still builds on.",
     tags: ["2024 – now", "Mobile", "AI"],
     motion: { src: "videos/web/talstrike.mp4", poster: "videos/web/talstrike.jpg" },
     sector: "Sports tech · 0→1 platform",
     tagline: "AI-powered talent discovery for athletes, scouts and fans.",
     summary:
-      "Talstrike connects athletes, scouts and sports fans through talent discovery and sports content. As lead designer I took the product from an early prototype to launch, designed its AI-assisted athlete search and the role-based account model, and set up the design system the team builds on.",
-    role: "Lead Product Designer",
+      "Talstrike connects athletes, scouts and sports fans through talent discovery and sports content. As a product designer on the team, I worked on its visual, interaction and motion design from early prototype to launch, including the AI-assisted athlete search, the role-based accounts and the design system.",
+    role: "Product Designer (visual, interaction & motion)",
     dates: "Feb 2024 – Present",
-    team: "4 designers (mentored), founder, backend and mobile engineers",
+    team: "Design team, founder, backend and mobile engineers",
     platform: "iOS, Android, web",
     tools: "Figma variables & tokens, AI-assisted search, user interviews",
     stats: [
@@ -298,8 +297,7 @@ export const projects: Project[] = [
     cover: "/images/talstrike-cover.png",
     banner: "/images/TalstrikeBanner.png",
     video: "videos/TalstrikeMotion.mp4",
-    testimonialId: "talstrike",
-    accent: "#2563eb",
+        accent: "#2563eb",
     features: [
       {
         id: "ai-athlete-discovery",
@@ -346,12 +344,12 @@ export const projects: Project[] = [
           loop: { from: 3, to: 1, label: "No — review the next athlete" },
         },
         process: [
-          "I worked with the backend team to understand the infrastructure and translate the steps needed for AI-assisted search into the interface.",
-          "I investigated how scouts frame an opportunity, so the search would begin with their requirements and feel natural to their decision-making.",
-          "I introduced a distinction between hard requirements and soft preferences, so scouts keep essential criteria while staying flexible where it makes sense.",
+          "The design team worked with backend engineers to translate the steps needed for AI-assisted search into the interface.",
+          "The team investigated how scouts frame an opportunity, so the search would begin with their requirements and feel natural to their decision-making.",
+          "The design separates hard requirements from soft preferences, so scouts keep essential criteria while staying flexible where it makes sense.",
         ],
         ownership: [
-          "My responsibility was turning scouting intent into an understandable search experience: gathering requirements, expressing priority, and connecting discovery to athlete evaluation.",
+          "My part was the visual and interaction design of the search experience: the requirement inputs, priority controls, ranking feedback and the loading, empty and error states.",
           "Backend collaboration set the technical context. The AI system supports candidate discovery; scouts keep responsibility for judging suitability.",
         ],
         solution: [
@@ -399,7 +397,7 @@ export const projects: Project[] = [
           "Four account types, each with navigation built around its own work, connected by shared feeds.",
         figures: [
           { title: "One menu for four audiences", body: "Athletes, scouts, fans and admins all saw the same tools, so nobody could find theirs.", visual: "before" },
-          { title: "Learning the work first-hand", body: "I did practical scouting myself and interviewed scouted athletes to map what each role actually does." },
+          { title: "Learning the work first-hand", body: "The team observed practical scouting and interviewed scouted athletes to map what each role actually does." },
           { title: "Navigation built around the job", body: "Each account type gets a menu shaped by its work: showcasing talent, scouting, following sport or running the platform.", visual: "screen1" },
           { title: "Shared spaces stay shared", body: "Feeds stay open to everyone, so specialised menus never cut people off from each other.", visual: "screen2" },
           { title: "The new flow", body: "Pick your role, set up, and land in a menu that's yours, with shared feeds one tap away.", visual: "after" },
@@ -435,12 +433,12 @@ export const projects: Project[] = [
           ],
         },
         process: [
-          "I took part in practical scouting activity to understand and document the work a scout performs, then used those findings to define their menu options.",
-          "I interviewed scouted athletes to understand their side of the process and designed menus around their activities.",
-          "I mapped where the two accounts intersect to support connection, and kept general areas such as feeds so the account structure wouldn't block communication.",
+          "The team took part in practical scouting activity to document the work a scout performs, then used those findings to define their menu options.",
+          "Interviews with scouted athletes showed their side of the process, and menus were designed around their activities.",
+          "The team mapped where the two accounts intersect, and kept general areas such as feeds so the account structure wouldn't block communication.",
         ],
         ownership: [
-          "I turned scouting activity and athlete interviews into the account navigation model, deciding which actions belonged to each audience and where their experiences needed to meet.",
+          "I designed the visual navigation and interactions for each account type, so every audience sees the right actions and the shared areas feel consistent.",
         ],
         solution: [
           "Four primary account types organise access to the right menus: athletes around showcasing talent, scouts around finding talent and posting opportunities, fans around sports engagement, and administrators around platform operations.",
@@ -474,125 +472,8 @@ export const projects: Project[] = [
           "Improvement is assessed by comparing task completion and wrong-menu selections with the earlier experience, reported by role so an average doesn't hide a difficult account experience.",
         ],
         reflection: [
-          "Account design meant understanding both separate responsibilities and the points where people work together. Doing scouting myself and interviewing athletes gave me both sides of the same connection.",
+          "Account design meant understanding both separate responsibilities and the points where people work together. Observing scouting and interviewing athletes gave the team both sides of the same connection.",
           "Next, I'd look at people with several sporting identities and check that account type, profile identity and preferences combine without making the menu unpredictable.",
-        ],
-      },
-    ],
-  },
-  {
-    slug: "bradcoin",
-    name: "Bradcoin",
-    headline: "A campus rewards app featured in The Telegraph",
-    caption: "Rewarding students for showing up",
-    closing:
-      "Bradcoin was featured in The Telegraph for its design, and the University of Bradford now uses it as a benchmark for future fintech students.",
-    tags: ["MSc project", "Mobile", "Fintech"],
-    motion: { src: "videos/web/bradcoin.mp4", poster: "videos/web/bradcoin.jpg" },
-    sector: "Fintech · Campus rewards",
-    tagline: "Rewarding students for taking part in campus life.",
-    summary:
-      "Bradcoin is a campus rewards concept for the University of Bradford: students earn tokens for verified participation in clubs and societies and spend them with campus vendors. I led the project, designed the mobile app and wrote the whitepaper. The work was featured in The Telegraph and is used by the university as a benchmark for future fintech students.",
-    role: "Project lead & product designer",
-    dates: "MSc Financial Technology, University of Bradford",
-    team: "4: Nathaniel (lead, app, whitepaper), Ribin (logo, app), Ali (research), Sarah (regulation, privacy, ethics)",
-    platform: "Mobile app + token system",
-    tools: "Figma, surveys and engagement analysis, whitepaper",
-    stats: [
-      { value: "Telegraph", label: "featured for its UI/UX design" },
-      { value: "6% → 50%", label: "participation ambition" },
-      { value: "Benchmark", label: "for future fintech cohorts" },
-    ],
-    cover: "/images/StudentParticipation.png",
-    banner: "/images/BradcoinBanner.png",
-    video: "videos/Bradcoin.mp4",
-    testimonialId: "bradford",
-    accent: "#7c3aed",
-    features: [
-      {
-        id: "student-participation",
-        title: "Student participation and rewards",
-        summary:
-          "A society directory and mission cards that show students exactly what to do and what they'll earn.",
-        figures: [
-          { title: "Only 6% took part", body: "Student-union data showed about 6% of students joined extracurricular activities.", visual: "before" },
-          { title: "Start with names students know", body: "Discovery begins with a searchable directory of real societies, not an abstract rewards menu.", visual: "screen1" },
-          { title: "Make the reward concrete", body: "Each society lists specific missions, like joining, inviting or taking part, each with a visible token reward.", visual: "screen2" },
-          { title: "Earned, not promised", body: "Tokens are credited only after participation is verified, and pending rewards look different from ones ready to spend." },
-          { title: "The new flow", body: "Register, find a society, complete an activity, get verified, receive Bradcoin.", visual: "after" },
-          { title: "Led end to end", body: "I led a team of four, designed the app and wrote the whitepaper." },
-        ],
-        deck: "bradcoin/student-participation",
-        overview: [
-          "Students earn tokens through verified participation in approved clubs and societies, then redeem them with registered campus vendors.",
-          "This work focuses on the earning experience: finding a society, understanding its activities and rewards, and connecting participation to token allocation.",
-        ],
-        problem: [
-          "Student-union statistics showed only about 6% of students took part in extracurricular activities. Low participation limited the reach of clubs and societies, and students' chances to build skills through campus life.",
-          "The design had to make activities and their incentives understandable, while making sure rewards depended on verified participation. Discovery alone wouldn't complete the earning journey.",
-        ],
-        hypothesis: [
-          "If students can discover societies, see specific activities and understand the rewards attached, they'll be more likely to take part.",
-          "Linking tokens to verified activity makes the incentive traceable, and campus redemption gives it a practical purpose. The hypothesis is about participation and continued engagement — not speculative interest in a token.",
-        ],
-        goals: [
-          "Increase extracurricular participation and connect campus involvement to rewards students can use.",
-          "Project-level ambition: raise participation from about 6% to 50%.",
-        ],
-        measures:
-          "Society-discovery task completion, progression from viewing a mission to verified participation, and successful reward allocation — with repeat participation tracked separately.",
-        currentFlow: {
-          caption: "Before: voluntary participation",
-          steps: [
-            "Find club through campus channels",
-            "Choose to join or attend",
-            "Participate in activity",
-            "No redeemable reward",
-          ],
-        },
-        process: [
-          "We used student feedback and engagement analysis to shape the activity and reward model. Ali ran and analysed surveys supporting the mining tasks and feasibility.",
-          "I designed the mobile interface around society discovery and mission selection, connecting the visible earning experience to the registration, verification and token-allocation workflow.",
-          "The team refined the mining model and app flow together through brainstorming, testing, re-testing and reviewing each other's work.",
-        ],
-        ownership: [
-          "I led the project, designed and developed the mobile app interface and wrote the full whitepaper — connecting the product narrative and system workflow with the student-facing experience.",
-          "Ribin designed the logo and co-developed the app. Ali led student research and engagement analysis. Sarah reviewed regulatory, privacy and ethical considerations.",
-        ],
-        solution: [
-          "A searchable society directory leads to a page of activities for each society. Mission cards pair specific actions with visible token rewards — registering as a member, inviting someone, joining a campaign.",
-          "Rewards are allocated after participation is verified, and the interface shows available activities and potential rewards before students choose what to do.",
-        ],
-        finalFlow: {
-          caption: "After: earn through verified activity",
-          steps: [
-            "Register and link wallet",
-            "Find society in Mining",
-            "Choose and complete activity",
-            "Verify participation",
-            "Allocate Bradcoin reward",
-          ],
-        },
-        decisions: [
-          "Start discovery from recognisable society names and a search box.",
-          "Show missions as individual cards with an action and a reward value.",
-          "Tie reward eligibility to verification, and show “awaiting verification” separately from tokens ready to spend, so choosing a mission never looks like an instant credit.",
-        ],
-        tradeoffs: [
-          "A general “get involved” appeal communicates value but leaves the reward vague. Activity-specific missions make actions and incentives explicit.",
-          "Incentives can encourage reward collection rather than real participation. Verification handles eligibility; repeat attendance and meaningful involvement are what to examine for long-term value.",
-        ],
-        validation: [
-          "Survey interest and team testing gave evidence for the concept — not yet post-launch participation growth.",
-          "Feature validation: students find a society, identify an activity and its reward, and explain what must happen before tokens are credited. Interrupted handoffs, pending verification and rejected participation are tested as separate scenarios.",
-        ],
-        outcomes: [
-          "Delivered the mobile interface, whitepaper, activity-based reward model and a workflow linking participation to token allocation. The project was featured in The Telegraph and adopted by the university as a teaching benchmark.",
-          "The 6% baseline and 50% objective describe the intended change; claiming it would need verified participation data after implementation.",
-        ],
-        reflection: [
-          "The earning experience had to explain both what students could do and how that activity became a reward. Discovery and mission cards handled the first part; verification and allocation the second.",
-          "Next, I'd make the transition between those stages explicit — especially when students leave the app to do an activity and come back before the reward is ready.",
         ],
       },
     ],
@@ -606,22 +487,8 @@ export const moreWork = [
   {
     name: "Alsoit",
     title: "Multi-tenant enterprise workspace, acquired by Appsalite",
-    role: "Senior Product Designer · 2022 – 2023",
+    role: "Product Designer · 2022 – 2023",
     tags: ["Web", "B2B SaaS"],
     motion: { src: "videos/web/alsoit.mp4", poster: "videos/web/alsoit.jpg" },
-  },
-  {
-    name: "Wollette",
-    title: "Responsive redesign that doubled merchant partnerships",
-    role: "Product Designer (contract) · 2023 – 2024",
-    tags: ["Web", "Payments"],
-    motion: { src: "videos/web/wollette.mp4", poster: "videos/web/wollette.jpg" },
-  },
-  {
-    name: "Weather concept",
-    title: "Motion study for a weather app",
-    role: "Personal project · Motion design",
-    tags: ["Motion", "3D"],
-    motion: { src: "videos/web/weather.mp4", poster: "videos/web/weather.jpg" },
   },
 ];

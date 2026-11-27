@@ -5,7 +5,7 @@ import { site } from "@/content/site";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "Get in touch with Nathaniel Diamond about senior product design roles and projects.",
+  description: "Get in touch with Evelyn Joseph about product design roles and projects.",
   alternates: { canonical: "/contact" },
 };
 

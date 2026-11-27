@@ -90,7 +90,7 @@ export async function POST(request: Request) {
         from: CONTACT_FROM_EMAIL,
         to: [CONTACT_TO_EMAIL],
         reply_to: email,
-        subject: `Nathmond project enquiry — ${name}`,
+        subject: `Design by Evelyn enquiry — ${name}`,
         text: `Name: ${name}\nEmail: ${email}\n\n${message}`,
       }),
       signal: AbortSignal.timeout(15000),

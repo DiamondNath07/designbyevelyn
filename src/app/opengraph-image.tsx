@@ -29,7 +29,7 @@ export default function OpenGraphImage() {
         </div>
         <div style={{ display: "flex", alignItems: "center", gap: 16, fontSize: 32 }}>
           <div style={{ width: 18, height: 18, borderRadius: 9, background: "#ff9a8b" }} />
-          {site.name} · nathmond.co.uk
+          {site.name} · designbyevelyn.vercel.app
         </div>
       </div>
     ),

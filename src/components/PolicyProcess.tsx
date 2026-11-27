@@ -165,10 +165,10 @@ const aiPrinciples = [
 ];
 
 const swiftpoint = [
-  { title: "Concept to clickable prototype in 1 week", body: "A Figma prototype the founders could put in front of users, followed by a live MVP within a few months." },
-  { title: "Three months of payment research", body: "Interviews and testing behind a unified bill-payments page with one shared transaction log." },
-  { title: "Designed with payments engineers", body: "Every gateway response mapped to a confirmation, status or failure screen, so people never pay twice." },
-  { title: "Research across 10 markets", body: "Regional friction found in the field, then multi-currency flows simplified with progressive disclosure." },
+  { title: "Status screens people trust", body: "Confirmation, status and failure screens that show rate, fees and recipient amount before anyone pays." },
+  { title: "One bill-payments experience", body: "The interface and motion for a unified bill-payments page with a shared transaction log." },
+  { title: "Designed for 10 markets", body: "Visual and interaction design for a platform supporting expansion into 10 countries." },
+  { title: "Built with engineers", body: "Screens and states designed alongside payments engineers, so the interface matched what the gateways returned." },
 ];
 
 function SubHead({ label, title, action }: { label: string; title: string; action?: ReactNode }) {
@@ -343,7 +343,7 @@ export function PolicyProcess() {
             <>
               <SubHead
                 label="In practice"
-                title="Swiftpoint: a classic process, shipped in 10 countries"
+                title="Swiftpoint: a classic process, in 10 countries"
                 action={
                   <Link href="/work/swiftpoint" className="btn btn-outline shrink-0">
                     Read the case study <Arrow />

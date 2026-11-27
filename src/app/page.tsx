@@ -2,13 +2,11 @@ import Link from "next/link";
 import { CountUp } from "@/components/CountUp";
 import { Arrow } from "@/components/Icons";
 import { HeadlineCarousel } from "@/components/HeadlineCarousel";
-import { ShowMore } from "@/components/ShowMore";
 import { Img } from "@/components/Media";
-import { ProjectCard, SmallWorkCard } from "@/components/ProjectCard";
+import { ProjectCard } from "@/components/ProjectCard";
 import { SectionHead } from "@/components/Section";
-import { TestimonialCard } from "@/components/TestimonialCard";
-import { moreWork, projects } from "@/content/projects";
-import { clients, experience, site, testimonials } from "@/content/site";
+import { projects } from "@/content/projects";
+import { clients, experience, site } from "@/content/site";
 
 export default function Home() {
   return (
@@ -23,16 +21,16 @@ export default function Home() {
               lead="I design"
               phrases={[
                 "fintech people trust.",
-                "AI features that feel human.",
-                "0→1 products, end to end.",
+                "interfaces that feel effortless.",
+                "motion that explains.",
                 "systems teams build on.",
               ]}
-              srText={`${site.name}, product designer. I design fintech people trust, AI features that feel human, 0→1 products end to end, and systems teams build on.`}
+              srText={`${site.name}, product designer. I design fintech people trust, interfaces that feel effortless, motion that explains, and systems teams build on.`}
             />
           </div>
           <p className="lede mt-7 max-w-xl text-base sm:text-lg" data-reveal style={{ ["--d" as string]: "300ms" }}>
-            7+ years across fintech, SaaS and AI — from a 0→1 sports platform with 10K subscribers to payments in 10
-            countries.
+            5+ years of visual, interaction and motion design across fintech, SaaS and AI, on products like a sports
+            platform with 10K+ subscribers and payments in 10 countries.
           </p>
           <div
             className="mt-8 flex flex-col items-stretch gap-3 sm:flex-row sm:flex-wrap sm:items-center"
@@ -56,8 +54,11 @@ export default function Home() {
           </div>
 
           {/* Results statement */}
+          <p className="ledger mt-12 sm:mt-14" data-reveal="fade" style={{ ["--d" as string]: "500ms" }}>
+            Products I&apos;ve contributed to
+          </p>
           <dl
-            className="stagger mt-12 grid grid-cols-2 border-y border-dashed border-line-2 sm:mt-14 sm:grid-cols-4"
+            className="stagger mt-4 grid grid-cols-2 border-y border-dashed border-line-2 sm:grid-cols-4"
             data-reveal="fade"
             style={{ ["--d" as string]: "520ms" }}
           >
@@ -122,24 +123,12 @@ export default function Home() {
         </div>
       </section>
 
-      {/* More work */}
-      <section className="container-x pt-20 sm:pt-32" aria-labelledby="more-title">
-        <SectionHead id="more-title" label="More work" title="Also designed">
-          Client work under NDA, happy to walk through it in an interview.
-        </SectionHead>
-        <ShowMore className="stagger mt-8 grid gap-5 sm:mt-10 md:grid-cols-3" initial={1} label="See more projects">
-          {moreWork.map((m) => (
-            <SmallWorkCard key={m.name} item={m} />
-          ))}
-        </ShowMore>
-      </section>
-
       {/* Experience at a glance */}
       <section className="container-x pt-24 sm:pt-32" aria-labelledby="exp-title">
         <SectionHead
           id="exp-title"
           label="Experience"
-          title="7+ years in product design"
+          title="5+ years in product design"
           action={
             <Link href="/about" className="btn btn-outline">
               More about me <Arrow />
@@ -157,15 +146,6 @@ export default function Home() {
         </ol>
       </section>
 
-      {/* Testimonials */}
-      <section className="container-x pt-24 sm:pt-32" aria-labelledby="kind-title">
-        <SectionHead id="kind-title" label="Testimonials" title="What founders say" />
-        <ShowMore className="stagger mt-8 grid gap-5 sm:mt-10 md:grid-cols-3" initial={1} label="See more testimonials">
-          {testimonials.slice(0, 3).map((t) => (
-            <TestimonialCard key={t.id} t={t} />
-          ))}
-        </ShowMore>
-      </section>
     </>
   );
 }

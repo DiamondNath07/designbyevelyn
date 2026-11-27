@@ -1,17 +1,15 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 import { Experience } from "@/components/Experience";
 import { Arrow } from "@/components/Icons";
 import { PageHero } from "@/components/PageHero";
 import { SectionHead } from "@/components/Section";
-import { TestimonialCard } from "@/components/TestimonialCard";
-import { awards, education, site, skills, testimonials } from "@/content/site";
+import { education, site, skills } from "@/content/site";
 
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Nathaniel Diamond is a remote senior product designer with 7+ years across fintech, enterprise SaaS and consumer platforms.",
+    "Evelyn Joseph is a product designer in Lagos, Nigeria, specialising in visual, interaction and motion design.",
   alternates: { canonical: "/about" },
 };
 
@@ -28,7 +26,7 @@ export default function AboutPage() {
           <circle cx="12" cy="9" r="2.5" />
         </svg>
         <span className="flex flex-wrap gap-x-2">
-          <span className="whitespace-nowrap">Based in Manchester, UK</span>
+          <span className="whitespace-nowrap">Based in Lagos, Nigeria</span>
           <span aria-hidden="true" className="max-[380px]:hidden">·</span>
           <span className="whitespace-nowrap">Open to remote roles</span>
         </span>
@@ -40,7 +38,7 @@ export default function AboutPage() {
     <>
       <PageHero
         label="About"
-        title="I design for moments where getting it wrong costs people money or opportunity."
+        title="I design the parts of a product people see, touch and feel."
         aside={
           <div className="flex gap-3">
             <Link href="/contact" className="btn btn-light">
@@ -58,17 +56,13 @@ export default function AboutPage() {
         aria-label="Biography"
       >
         <div className="space-y-4 md:sticky md:top-28 md:h-fit">
-          <figure data-reveal className="portrait well overflow-hidden !rounded-[var(--radius-lg)]">
-            <Image
-              src="/images/nathaniel-diamond.webp"
-              alt="Portrait of Nathaniel Diamond"
-              width={880}
-              height={1100}
-              sizes="(min-width: 1024px) 24rem, (min-width: 768px) 20rem, 100vw"
-              priority
-              className="h-auto w-full object-cover"
-            />
-          </figure>
+<div
+            data-reveal
+            aria-hidden="true"
+            className="well grid aspect-[4/5] place-items-center !rounded-[var(--radius-lg)] bg-[radial-gradient(120%_90%_at_30%_20%,#262626,#0d0d0d)]"
+          >
+            <span className="serif-accent text-[7rem] leading-none text-result sm:text-[9rem]">EJ</span>
+          </div>
           {status}
         </div>
 
@@ -78,31 +72,26 @@ export default function AboutPage() {
           </p>
           <div className="stagger mt-6 space-y-6 text-lg leading-relaxed text-ink-2">
             <p data-reveal>
-              <span className="serif-accent text-[1.6em] leading-none text-ink">My first design job wasn&apos;t in tech.</span>{" "}
-              It was a student job at a printing press back in 2017, during my undergraduate degree, designing whatever came through
-              the door that week. Real clients, real deadlines, and no room for something that only looked good on
-              screen.
+              <span className="serif-accent text-[1.6em] leading-none text-ink">I care about how a product feels.</span>{" "}
+              I&apos;m a product designer in Lagos, and my focus is the part people actually see and touch: the visual
+              design, the interactions and the motion that ties them together.
             </p>
             <p data-reveal>
-              That&apos;s where the web caught my attention. I started building websites, and that led me into software
-              development. I loved making things work, but I kept noticing that the part I cared about most wasn&apos;t
-              the code. It was how the screen felt to the person using it.
+              Since 2021 I&apos;ve worked on a cross-border payments platform at Swiftpoint, a multi-tenant enterprise
+              workspace at AlsoIT, and Talstrike, a sports talent platform that reached 10,000+ subscribers in its first
+              year.
             </p>
             <p data-reveal>
-              So I followed that. I moved into product design, and Figma became my main tool, with After Effects and Blender for motion.
+              My degree in accounting and financial technology helps me design money screens people trust: clear numbers,
+              honest states and no surprises at the moment someone pays.
             </p>
             <p data-reveal>
-              That path gave me an unusual mix. I design like a designer, think about how it will be built like an
-              engineer, and, thanks to my finance degrees, ask whether it makes business sense. The screens I care about
-              solve a real problem for people and earn their place in the product.
-            </p>
-            <p data-reveal>
-              These days AI is part of how I work, within each company&apos;s{" "}
+              I work in Figma with design tokens and component libraries, bring flows to life with After Effects and
+              Blender, and use AI tools where a team&apos;s{" "}
               <Link className="link text-ink" href="/process">
                 policy
-              </Link>
-              . It gets me from an idea to something testable faster and makes working with engineers smoother. Outside
-              client work, I design websites for charities with Reach Volunteering.
+              </Link>{" "}
+              allows.
             </p>
           </div>
         </div>
@@ -128,9 +117,9 @@ export default function AboutPage() {
           </dl>
         </div>
         <div>
-          <SectionHead label="Education & awards" title="Learning and recognition" />
+          <SectionHead label="Education" title="Background" />
           <ul className="stagger mt-8 space-y-3 text-ink-2">
-            {[...education, ...awards].map((e) => (
+            {education.map((e) => (
               <li key={e} data-reveal className="border-b border-line pb-3">
                 {e}
               </li>
@@ -139,14 +128,6 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="container-x pt-24" aria-labelledby="testimonials-title">
-        <SectionHead id="testimonials-title" label="Testimonials" title="From people I've worked with" />
-        <div className="stagger mt-10 grid gap-5 md:grid-cols-2">
-          {testimonials.map((t) => (
-            <TestimonialCard key={t.id} t={t} />
-          ))}
-        </div>
-      </section>
     </>
   );
 }

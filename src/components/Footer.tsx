@@ -9,7 +9,7 @@ export function Footer() {
         <a
           href={`mailto:${site.email}`}
           data-reveal
-          className="grow-underline mt-4 inline-flex items-center gap-3 pb-1 text-[clamp(1.75rem,5vw,3rem)] font-medium tracking-[-0.03em]"
+          className="grow-underline mt-4 inline-flex items-center gap-3 pb-1 max-w-full break-all text-[clamp(1.5rem,5vw,3rem)] font-medium tracking-[-0.03em] sm:break-normal"
         >
           {site.email}
         </a>

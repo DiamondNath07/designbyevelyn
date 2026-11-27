@@ -1,20 +1,20 @@
 export const site = {
-  name: "Nathaniel Diamond",
-  brand: "Nathmond",
-  url: "https://www.nathmond.co.uk",
-  role: "Senior Product Designer",
-  location: "Remote, worldwide",
-  availability: "Currently open to new product design roles",
-  invite: "Got a hard product problem? I'd love to hear what you're building.",
-  email: "studio@nathmond.co.uk",
-  phone: "+44 7908 081 410",
+  name: "Evelyn Joseph",
+  brand: "Design by Evelyn",
+  url: "https://designbyevelyn.vercel.app",
+  role: "Product Designer",
+  location: "Lagos, Nigeria",
+  availability: "Open to new product design roles",
+  invite: "Got a product that needs to look and feel great? I'd love to hear what you're building.",
+  email: "ifeoma.joseph.ux@gmail.com",
+  phone: "+234 703 600 2415",
   linkedin: "",
   cvPdf: "/Evelyn-Joseph-CV.pdf",
-  headline: "I design clear, accessible products for complex problems — and prototype them with AI.",
+  headline: "I design clear, polished products, with interactions and motion that make them easy to use.",
   intro:
-    "Senior product designer with 7+ years across fintech, enterprise SaaS and consumer platforms. I lead 0→1 products, untangle regulated flows and build design systems that help teams ship faster.",
+    "Product designer with 5+ years across fintech, enterprise SaaS and consumer platforms, specialising in visual, interaction and motion design.",
   description:
-    "Nathaniel Diamond is a remote senior product designer working across fintech, enterprise SaaS and consumer platforms, with an AI-first prototyping workflow.",
+    "Evelyn Joseph is a product designer in Lagos, Nigeria, specialising in visual, interaction and motion design for fintech, enterprise SaaS and consumer products.",
 };
 
 export const nav = [
@@ -27,12 +27,8 @@ export const nav = [
 export const clients = [
   { name: "Talstrike", logo: "/images/B.Talstrike.png" },
   { name: "Swiftpoint", logo: "/images/B.Swiftpoint.png" },
-  { name: "Wollette", logo: "/images/B.Wollette.png" },
   { name: "Alsoit", logo: "/images/B.Alsoit.png" },
-  { name: "University of Bradford", logo: "/images/B.UoB.png" },
-  { name: "Bradcoin", logo: "/images/B.Bradcoin.png" },
-  { name: "The Telegraph", logo: "/images/B.Telegraph.png" },
-];
+]
 
 export type Testimonial = {
   id: string;
@@ -42,48 +38,7 @@ export type Testimonial = {
   company: string;
 };
 
-export const testimonials: Testimonial[] = [
-  {
-    id: "talstrike",
-    company: "Talstrike",
-    name: "Adams Rasheed",
-    role: "Founder",
-    quote:
-      "Nathaniel was instrumental in scaling Talstrike past our early V1 prototype into a high-performing product. He established a solid UI foundation by introducing a structured design system that accelerated frontend handoff by 2x, significantly boosting our development velocity, coupled with great collaboration across cross-functional teams.",
-  },
-  {
-    id: "swiftpoint",
-    company: "Swiftpoint",
-    name: "Nicholas D.",
-    role: "Founder",
-    quote:
-      "Nathaniel brought a complex fintech concept to life in just one week, delivering a rapid visual prototype for a cross-border bill payment and currency exchange system. His technical input on both the web and mobile app architecture was critical, enabling us to scale from that initial concept to a live MVP within just a few months.",
-  },
-  {
-    id: "bradford",
-    company: "University of Bradford",
-    name: "Sherena Huang",
-    role: "Professor",
-    quote:
-      "His work on the Bradcoin project provided foundational proof of concept for the university's hands-on learning initiatives. The architecture of his project is exceptionally strong, and we are utilizing it as an active development resource and benchmark for future fintech students.",
-  },
-  {
-    id: "alsoit",
-    company: "Alsoit",
-    name: "Joseph Schnedir",
-    role: "Founder",
-    quote:
-      "Nathaniel handled the fast iterations of our complex, multi-tenant software with exceptional discipline. He led the team straight to a successful Alpha version, delivering a usable product that optimized cross-functional task management.",
-  },
-  {
-    id: "wollette",
-    company: "Wollette",
-    name: "Henry Orunkoya",
-    role: "Founder",
-    quote:
-      "Nathaniel works at a very high pace, delivering quality design variations with great time efficiency. During our A/B testing phase, he produced competing concepts that were both so strong it made choosing a single direction genuinely difficult for the business.",
-  },
-];
+export const testimonials: Testimonial[] = [];
 
 export type Role = {
   company: string;
@@ -95,81 +50,53 @@ export type Role = {
 };
 
 export const profile =
-  "Senior Product Designer with 7+ years shipping products across fintech, enterprise SaaS and consumer platforms. I turn regulated, complex flows into clear, accessible journeys and build tokenised design systems that help engineering ship faster. I prototype with AI, going from research to working, coded prototypes in days.";
+  "Product Designer with 5+ years designing B2B SaaS, fintech and consumer products, specialising in visual, interaction and motion design.";
 
 export const experience: Role[] = [
   {
     company: "Talstrike",
-    title: "Lead Product Designer",
+    title: "Product Designer",
     location: "Remote",
     dates: "Feb 2024 – Present",
     summary: "Sports talent platform connecting athletes, scouts and fans.",
     points: [
-      "Led design from prototype to launch; reached 10K+ subscribers in year one.",
-      "Turned research and stakeholder input into the V2 roadmap; V2 lifted sign-ups 85%.",
-      "Designed AI-assisted athlete search and role-based accounts for four user types.",
-      "Rebuilt the design system on Figma tokens and variables, automating dark mode.",
-      "Mentored 4 designers through structured critique, speeding up engineering handoff.",
-    ],
-  },
-  {
-    company: "Wollette",
-    title: "Product Designer (Contract)",
-    location: "UK",
-    dates: "Dec 2023 – Feb 2024",
-    summary: "Payments platform: responsive web redesign and rebrand.",
-    points: [
-      "Redesigned the responsive website and brand; merchant partnerships doubled in 3 months.",
-      "Lifted quarterly sign-ups 10% and organic search visibility 20%.",
-      "Used 3D and motion to explain complex workflows; usability scores rose 25%.",
+      "Visual, interaction and motion design across iOS, Android and web.",
+      "Contributed to a platform that reached 10K+ subscribers in its first year.",
     ],
   },
   {
     company: "Alsoit",
-    title: "Senior Product Designer",
-    location: "UK",
+    title: "Product Designer",
+    location: "",
     dates: "Jan 2022 – Dec 2023",
     summary: "Multi-tenant enterprise workspace, acquired by Appsalite.",
     points: [
-      "Designed core dashboards, org hierarchy and activity tracking during 3× valuation growth.",
-      "Built and governed a tokenised Figma design system used across product squads.",
-      "Set design principles and a WCAG-based accessibility standard for every product line.",
-      "Mentored junior designers and created a video library of UX patterns.",
+      "Visual and interaction design for dashboards and hierarchy views.",
+      "Built components for the tokenised Figma design system.",
     ],
   },
   {
     company: "Swiftpoint",
-    title: "UI/UX Designer",
+    title: "Product Designer",
     location: "",
-    dates: "May 2019 – Jan 2022",
+    dates: "Jun 2021 – Jan 2022",
     summary: "Cross-border payments and bills platform.",
     points: [
-      "Led product design as the platform expanded into 10 countries.",
-      "Simplified multi-currency transfers into step-by-step flows using progressive disclosure.",
-      "Ran research across markets and localised the interface for each.",
+      "Interface and motion for payment, status and bill-payment flows.",
     ],
   },
 ];
 
-export const education = [
-  "MSc Financial Technology — University of Bradford, UK",
-  "BSc Accounting and Financial Technology — Delta State University, NG",
-  "UX Master Certified (UXC #1063162) — Nielsen Norman Group",
-  "UX Design Professional Certificate — Google",
-  "Full-Stack Web Development — Microverse",
-];
+export const education = ["BSc Accounting and Financial Technology — Enugu State University, NG"];
 
-export const awards = [
-  "Featured design innovation — The Telegraph, for the Bradcoin app",
-  "Global Trading Laureate — Bloomberg international trading competition",
-];
+export const awards: string[] = [];
 
 export const skills = [
-  { group: "Product design", items: ["Discovery", "Interaction design", "Prototyping", "User research", "Usability testing", "Information architecture", "A/B testing"] },
-  { group: "Design systems", items: ["Tokenised systems", "Figma variables", "Light/dark theming", "WCAG 2.2 AA", "Inclusive design"] },
-  { group: "AI workflow", items: ["Claude", "Claude Code", "Cursor", "Figma AI", "v0", "AI research synthesis"] },
-  { group: "Motion & 3D", items: ["After Effects", "Blender", "Cinema 4D", "Micro-interactions"] },
-  { group: "Front-end", items: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Git"] },
+  { group: "Visual & interaction", items: ["UI design", "Interaction design", "Micro-interactions", "User flows", "Mobile & responsive web"] },
+  { group: "Motion & 3D", items: ["After Effects", "Overlord", "Blender", "Cinema 4D"] },
+  { group: "Design systems", items: ["Figma variables", "Design tokens", "Component libraries", "Dark mode", "WCAG"] },
+  { group: "Prototyping", items: ["Figma prototyping", "Figma Make", "HTML", "CSS", "JavaScript"] },
+  { group: "AI workflow", items: ["Claude", "Figma Make", "Cursor", "v0"] },
 ];
 
 export const getTestimonial = (id: string) => testimonials.find((t) => t.id === id);

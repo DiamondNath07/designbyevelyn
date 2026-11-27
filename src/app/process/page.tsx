@@ -6,7 +6,7 @@ import { SectionHead } from "@/components/Section";
 export const metadata: Metadata = {
   title: "Process",
   description:
-    "Nathaniel Diamond's end-to-end product design process, from discovery to delivery, and how he adapts it to a company's AI policy: no AI, approved tools only, or AI-first.",
+    "Evelyn Joseph's end-to-end product design process, from discovery to delivery, and how she adapts it to a company's AI policy: no AI, approved tools only, or AI-first.",
   alternates: { canonical: "/process" },
 };
 
