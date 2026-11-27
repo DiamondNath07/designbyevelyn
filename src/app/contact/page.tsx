@@ -17,7 +17,7 @@ export default function ContactPage() {
       </PageHero>
       <section className="container-x" aria-label="Contact form">
         <div className="panel max-w-3xl p-6 sm:p-10">
-          <ContactForm fallbackEmail={site.email} />
+          <ContactForm to={site.email} brand={site.brand} />
         </div>
       </section>
     </>
