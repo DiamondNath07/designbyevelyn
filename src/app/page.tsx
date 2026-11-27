@@ -3,9 +3,9 @@ import { CountUp } from "@/components/CountUp";
 import { Arrow } from "@/components/Icons";
 import { HeadlineCarousel } from "@/components/HeadlineCarousel";
 import { Img } from "@/components/Media";
-import { ProjectCard } from "@/components/ProjectCard";
+import { ProjectCard, SmallWorkCard } from "@/components/ProjectCard";
 import { SectionHead } from "@/components/Section";
-import { projects } from "@/content/projects";
+import { moreWork, projects } from "@/content/projects";
 import { clients, experience, site } from "@/content/site";
 
 export default function Home() {
@@ -115,10 +115,19 @@ export default function Home() {
           action={<p className="ledger">Two-minute reads</p>}
         />
         <div className="stagger mt-8 grid gap-x-5 gap-y-10 sm:mt-10 md:grid-cols-2">
-          {projects.map((p, i) => (
-            <div key={p.slug} className={i === 0 ? "md:col-span-2" : undefined}>
-              <ProjectCard project={p} featured={i === 0} />
+          {projects.map((p) => (
+            <div key={p.slug} className="md:col-span-2">
+              <ProjectCard project={p} featured />
             </div>
+          ))}
+        </div>
+
+        <p className="ledger mt-16 sm:mt-20" data-reveal="fade">
+          More projects
+        </p>
+        <div className="stagger mt-5 grid gap-5 md:grid-cols-2">
+          {moreWork.map((m) => (
+            <SmallWorkCard key={m.name} item={m} />
           ))}
         </div>
       </section>

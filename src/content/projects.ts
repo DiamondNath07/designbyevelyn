@@ -491,4 +491,11 @@ export const moreWork = [
     tags: ["Web", "B2B SaaS"],
     motion: { src: "videos/web/alsoit.mp4", poster: "videos/web/alsoit.jpg" },
   },
+  {
+    name: "Weather app",
+    title: "Motion study for a weather app",
+    role: "Personal project · Motion design",
+    tags: ["Motion", "3D"],
+    motion: { src: "videos/web/weather.mp4", poster: "videos/web/weather.jpg" },
+  },
 ];
